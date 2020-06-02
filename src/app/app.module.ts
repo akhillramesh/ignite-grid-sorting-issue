@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HelloComponent } from './hello.component';
 import { IgxGridModule } from 'igniteui-angular';
 import { GridSortingSampleComponent } from './grid-sorting-sample/grid-sorting-sample.component';
-import { DataService } from './data.service';
 
 
 @NgModule({
